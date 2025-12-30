@@ -1,0 +1,4 @@
+How many pods were created?
+    - 2
+What is the pod naming pattern?
+    - web-app-<some characters>-<some more characters>
